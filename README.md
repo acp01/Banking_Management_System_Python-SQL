@@ -18,13 +18,18 @@ The project performs basic banking operation and maintains a database of custome
 Enter your choice : 2
 
 2. SubMenu for Displaying Looks Like This.
+
 **************************************************************************************
                          a.sorted as per Account number                                                                                     
                          b.sorted as per Customer name                                                                                      
                             c.sorted as per Balance                                                                                         
-                                     d.Back                                                                         ***************************************************************************************
+                                     d.Back     
+                                     
+                                     
+***************************************************************************************
 Enter your choice : d
 Back to Main Menu
+
 ***************************************************************************************
                                    MAIN MENU                                                                                                
                                 1.Insert Records                                                                                            
@@ -38,6 +43,7 @@ Back to Main Menu
 Enter your choice : 6
 
 3.SubMenu for Transaction looks like this
+
 *****************************************************************************************
                              a.Debit/Withdraw from account                                                                                      
                                b.Credit into the account                                                                                        
