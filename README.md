@@ -50,3 +50,7 @@ Enter your choice : 6
                                          c.Back      
                                                                                                  
 *****************************************************************************************
+
+#### Screenshot of database on which all the operations are done :
+
+![3](https://user-images.githubusercontent.com/66326444/111866798-03654400-8996-11eb-8b5c-ff936f24f3e4.JPG)
